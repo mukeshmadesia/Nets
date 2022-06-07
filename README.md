@@ -1,4 +1,8 @@
 # Nets
+
+Allure Rport link - http://192.168.0.44:55433/index.html#packages/8b43f39217f2951f21c3b1bd7a79236d/d2b2d7bdd36b3ce/
+TestCase 4 - has ScreenShot - for refernce
+
 SeleniumPython-TestAutomatiom
 This project is based on Page Object Model 
             using Selenium Python & Pytest -
